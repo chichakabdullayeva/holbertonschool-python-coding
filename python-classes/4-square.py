@@ -12,7 +12,6 @@ class Square:
             size: The size of the square (default is 0).
         """
         self.size = size
-
     @property
     def size(self):
         """Retrieves the current size of the square."""
